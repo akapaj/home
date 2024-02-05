@@ -120,5 +120,4 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am a Senior Scientist at the Geographic Information Visualization and Analysis (GIVA) research group at the Department of Geography of the University of Zurich. My research interests include map design, human spatial navigation, and cognition. Specifically how humans make navigation decisions with mobile maps in our spatially enabled society and how mobile maps influence wayfinders’ visual attention, spatial learning, and cognitive states during aided navigation tasks. The aim of my research is to develop and design mobile maps that guide wayfinders’ visual attention to task-relevant information on the map and environment, with the intent to improve their spatial knowledge acquisition of the traversed environment and mitigate their cognitive load. {style="text-align: justify;"}
