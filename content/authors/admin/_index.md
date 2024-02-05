@@ -3,7 +3,7 @@
 title: Armand Kapaj
 
 # Name pronunciation (optional)
-name_pronunciation: Armand Kapaj
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Armand 
